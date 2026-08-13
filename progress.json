@@ -168,5 +168,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1786628252.498319,
+    "completed_at": 1786628256.146859,
+    "comments": [
+      "Missing question In February, who was replaced in the Wednesday duty roster? in answers file."
+    ],
+    "status": "Error"
   }
 ]
