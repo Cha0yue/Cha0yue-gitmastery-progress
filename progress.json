@@ -377,15 +377,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "glossary-branch-push",
-    "started_at": 1786704123.355895,
-    "completed_at": 1786704125.321302,
-    "comments": [
-      "Great work pushing the PQR branch to your fork!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "glossary-branch-pull",
     "started_at": 1786704544.026829,
     "completed_at": 1786704546.001265,
